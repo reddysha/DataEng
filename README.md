@@ -32,3 +32,6 @@ Data Engineering Tasks
 -refer to API_Chart.ipynb for this section 
 
 **Section 5: Machine Learning**
+
+- refer to Machine_learning.ipnyb for this section.
+- Didnt worked on the ML, couldnt complete this section.
